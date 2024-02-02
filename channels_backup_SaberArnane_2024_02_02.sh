@@ -34,9 +34,10 @@ sleep 2
 echo
 init 3
 
-echo" #########################################################"
-echo "#             Please restart your device                #"
-echo "#########################################################"
+echo "###################################################"
+echo "#           Please restart your device            #"
+echo "#                 By Saber Arnane                 #"  
+echo "###################################################"
 sleep 2
 killall -9 enigma2
 exit 0
