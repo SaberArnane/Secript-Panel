@@ -34,4 +34,9 @@ sleep 2
 echo
 init 3
 
+"     #########################################################"
+echo "#             Please restart your device                #"
+echo "#########################################################"
+sleep 2
+#killall -9 enigma2
 exit 0
