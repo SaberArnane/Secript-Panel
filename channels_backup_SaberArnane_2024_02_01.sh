@@ -1,6 +1,6 @@
 #!/bin/sh
 ##
-channel=Mostafa-Gh
+channel=Saber-Arnane
 version=motor
 
 echo "> Downloading "$channel" "$version" Channels List  Please Wait ......"
