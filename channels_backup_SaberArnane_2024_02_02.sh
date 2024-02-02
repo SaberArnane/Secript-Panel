@@ -6,7 +6,7 @@ version=motor
 echo "> Downloading "$channel" "$version" Channels List  Please Wait ......"
 sleep 3s
 
-wget -O /var/volatile/tmp/$channel-$"version".tar.gz "https://github.com/SaberArnane/Secript-Panel/raw/main/channels_backup_SaberArnane_20_24_02_02.tar.gz"
+wget -O /var/volatile/tmp/$channel-$"version".tar.gz "https://github.com/SaberArnane/Secript-Panel/raw/main/channels_backup_SaberArnane_2024_02_02.tar.gz"
 
 echo ""
 
