@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://github.com/SaberArnane/Secript-Panel/main/Novaler/NovalerStore.sh -O - | /bin/sh
+## Command=wget https://github.com/SaberArnane/Secript-Panel/raw/main/Novaler/NovalerStore.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
