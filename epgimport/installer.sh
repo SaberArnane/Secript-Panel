@@ -9,7 +9,7 @@ TEMPATH=/tmp
 OPKGINSTALL="opkg install --force-reinstall"
 MY_IPK="EPGImport-mod-dorik1972_1.8.5.1_all.ipk"
 MY_DEB="EPGImport-mod-dorik1972_1.8.5.1_all.deb"
-MY_URL="https://raw.githubusercontent.com/SaberArnane/epgimport/main"
+MY_URL="https://raw.githubusercontent.com/SaberArnane/Secript-Panel/epgimport/main"
 # remove old version #
 rm -rf /usr/lib/enigma2/python/Plugins/Extensions/EPGImport
 
