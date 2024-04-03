@@ -1,14 +1,14 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/SaberArnane/xtraevent/main/installer.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/SaberArnane//main/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
 
 # my config script #
 
-MY_IPK_PY2="xtraevent-py2_2.1_all.ipk"
-MY_IPK_PY3="xtraevent-py3_2.0_all.ipk"
+MY_IPK_PY2="Novaler/enigma2-plugin-extensions-novalerstore-python2_2.0-r0_all.ipk"
+MY_IPK_PY3="Novaler/enigma2-plugin-extensions-novalerstore-python3_2.0-r0_all.ipk"
 MY_URL="https://raw.githubusercontent.com/emil237/xtraevent/main"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
