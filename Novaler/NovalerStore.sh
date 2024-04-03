@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/senigma2-plugin-extensions-novalerstore-python3_2.0-r0_all.ipk "https://github.com/Ham-ahmed/HAmed-Scripts/blob/main/enigma2-plugin-extensions-novalerstore-python3_2.0-r0_all.ipk"
+wget -O /var/volatile/tmp/senigma2-plugin-extensions-novalerstore-python3_2.0-r0_all.ipk "https://github.com/SaberArnane/Secript-Panel/raw/main/Novaler/NovalerStore.sh"
 wait
 opkg install --force-overwrite /tmp/*.ipk
 wait
