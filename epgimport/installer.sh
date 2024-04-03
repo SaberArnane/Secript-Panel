@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#wget -q "--no-check-certificate" https://raw.githubusercontent.com/emil237/epgimport/main/installer.sh -O - | /bin/sh
+#wget -q "--no-check-certificate" https://raw.githubusercontent.com/SaberArnane/Secript-Panel/epgimport/main -O - | /bin/sh
 
 ##########################################
 version=1.8.5.1
@@ -9,7 +9,7 @@ TEMPATH=/tmp
 OPKGINSTALL="opkg install --force-reinstall"
 MY_IPK="EPGImport-mod-dorik1972_1.8.5.1_all.ipk"
 MY_DEB="EPGImport-mod-dorik1972_1.8.5.1_all.deb"
-MY_URL="https://raw.githubusercontent.com/SaberArnane/Secript-Panel/epgimport/main"
+MY_URL=""
 # remove old version #
 rm -rf /usr/lib/enigma2/python/Plugins/Extensions/EPGImport
 
