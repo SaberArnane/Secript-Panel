@@ -9,7 +9,7 @@
 
 MY_IPK_PY2="Novaler/enigma2-plugin-extensions-novalerstore-python2_2.0-r0_all.ipk"
 MY_IPK_PY3="Novaler/enigma2-plugin-extensions-novalerstore-python3_2.0-r0_all.ipk"
-MY_URL="https://raw.githubusercontent.com/SaberArnane/Secript-Panel/main/Novaler"
+MY_URL="https://raw.githubusercontent.com/SaberArnane/Secript-Panel/raw/main/Novaler"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
 ######################################################################################
