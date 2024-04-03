@@ -17,7 +17,7 @@ MY_EM='=========================================================================
 #  Remove Old Plugin  #
 echo "   >>>>   Remove old version   "
 
-rm -r /usr/lib/enigma2/python/Plugins/Extensions/xtraevent
+rm -r /usr/lib/enigma2/python/Plugins/Extensions/novalerstore
 
 #################################
     
