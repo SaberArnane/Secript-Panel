@@ -34,7 +34,7 @@ rm -rf /tmp/*.tar.gz
 #config
 pack=novalerstore
 version=2.0-r0
-url="https://github.com/SaberArnane/Secript-Panel/raw/main/Novaler/NovalerStore.sh"
+url="https://github.com/SaberArnane/Secript-Panel/raw/main/Novaler/enigma2-plugin-extensions-novalerstore.sh"
 ipk="$pack-$version.ipk"
 install="opkg install --force-reinstall"
 
